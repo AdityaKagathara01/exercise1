@@ -32,7 +32,7 @@ public class CardTrick {
         // Then loop through the cards in the array to see if there's a match.
         
         // If the guess is successful, invoke the printInfo() method below.
-        
+        printinfo();
     }
 
     /**
